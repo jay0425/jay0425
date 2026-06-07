@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>📚 Stacks</h3>
+  <h2>📚 Stacks</h2>
 
   <div align="center">
     <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white">
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <h3>📧 Contact me</h3>
+  <h2>📧 Contact me</h2>
 
   <div align="center">
     <a href="mailto:jaedev3832@gmail.com">
